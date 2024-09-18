@@ -1,0 +1,2 @@
+Criar migrations: npx typeorm migration:create ./src/migration/create_table_user 
+
