@@ -2,6 +2,14 @@
 /dist
 /node_modules
 
+# env file
+.env.development.local
+.env.development
+# general things
+tips.txt
+command.txt
+
+
 # Logs
 logs
 *.log
